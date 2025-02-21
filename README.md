@@ -157,6 +157,4 @@ Feel free to reach out if you have any questions or if you want to collaborate o
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharkadharshana&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharkadharshana&theme=radical)
-
 [![Tharaka's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tharkadharshana&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
