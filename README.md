@@ -1,4 +1,5 @@
 # Hi there, I'm Tharaka Dharshana 👋
+![image](https://github.com/user-attachments/assets/cc82a7fa-bfaf-4cda-af1f-d1234a746a15)
 
 ## About Me
 
