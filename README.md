@@ -1,5 +1,5 @@
 # Hi there, I'm Tharaka Dharshana 👋
-https://preview.redd.it/cqtoj79xaxfe1.gif?width=220&format=mp4&s=696fa1e632ad1598ef69137dac40c96d0e13332d
+
 ## About Me
 
 I am a passionate R&D engineer with over 6 years of experience in AI-powered IoT and embedded solutions. Skilled in full-stack industrial automation systems, ML-driven SaaS platforms, and IoT architecture. I love solving industrial-scale challenges with AI, ML, and edge computing.
